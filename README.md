@@ -1,0 +1,1 @@
+As a math student, I want to represent a rectangle, so that I will be able to calculate Area
